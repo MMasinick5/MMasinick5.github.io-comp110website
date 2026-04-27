@@ -36,7 +36,7 @@ Overall, these graphs show that programming experience has a large effect on per
 <img src="{{ site.baseurl }}/static/imgs/chart3.png" width="500">
 
 
-## Conlusion
+## Conclusion
 
 These graphs clearly show that prior experience plays a large role in how students percieve the course. Beginners are more likely to report higher difficulty and are far more likely to struggle. They also show more support for additional resources such as pre-lecture videos. This suggests that the current course curriculum may not meet the needs of less experienced students. 
 
