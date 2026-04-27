@@ -10,8 +10,6 @@ layout: default
 
 ## Welcome to my website! Here you will find a summary of my analysis, graphs, and a conclusion from my EX09 Notebook. 
 
-## Test line
-
 ## Summary: 
 My analysis examines whether of not the COMP 110 course structure should use more gradual explainations for complex topics such as classes and objects. I did this by analyzing how this years students programming experience related to percieved difficulty and their support for additional resources. 
 
