@@ -38,6 +38,10 @@ Overall, these graphs show that programming experience has a large effect on per
 
 ## Conclusion
 
-These graphs clearly show that prior experience plays a large role in how students percieve the course. Beginners are more likely to report higher difficulty and are far more likely to struggle. They also show more support for additional resources such as pre-lecture videos. This suggests that the current course curriculum may not meet the needs of less experienced students. 
+The results of this analysis support the idea that the course should include more gradual explainations, especially when introducing more complex topics such as classes and objects. The data shows a pattern of students with less experience programming reporting higher difficulties, with over 80% of beginners rating the course as highly difficult compared to less than 20% of the most experienced students. Additionally, beginners support pre-lecture videos, suggesting they are actively seeking additional online support opportunities. 
 
-In order to fix this, I believe adding more gradual explainations and additional support on the website would be beneficial for less experienced students. However, it is important to keep more experienced students engaged at the same time. The evidence supports making the course more accessible without slowing down progress too much. I recommend more walkthrough videos that are availible to quiz prep and explainations that are more readily availible on the website. 
+Based on these findings, I would recommend the course introduce more step-by-step examples, along with other resources such as pre-lecture videos or guided examples. These changes could help beginners reduce confusion and make tough concepts feel more accessible. As an extension, additional offerings could include beginner friendly materials as well as harder problems for the more experienced students. This would allow beginners to build their foundational skills before working through class assignments. 
+
+It is important to keep the pacing at a high level so that the class doesn't feel repetetive or become less engaging for those more experienced students. Additionally, instructors already face time constraints so focusing on website resources should be the priority, as opposed to lecture materials. 
+
+Overall, the data highlights the need for more support for beginners. I think these changes would be greatly beneficial for students as long as they are done in a way that balances accessibility and pacing for everyone. 
